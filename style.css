@@ -74,6 +74,8 @@ cursor:pointer;
 
 .title{
 margin:30px 0 10px;
+font-size: 25px;
+font-weight: 700;
 }
 
 /* categories */
@@ -138,7 +140,7 @@ box-shadow:0 2px 6px rgba(0,0,0,0.1);
 }
 
 .card img{
-width:30%;
+width:70%;
 margin-bottom:10px;
 }
 
